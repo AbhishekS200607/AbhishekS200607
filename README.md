@@ -114,7 +114,7 @@ Smart recommendation engine for finding the best tech devices within budget.
 
 ---
 
-## 📊 More Projects & GitHub Stats
+## 📊 More Projects
 
 I have built **15+ projects** covering various domains:
 - 💰 **E-commerce & Payment Systems** (S-Pay, RestoConnect)
@@ -128,17 +128,25 @@ Explore all projects on my [GitHub profile](https://github.com/AbhishekS200607?t
 
 ---
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekS200607&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekS200607&layout=compact&theme=radical&card_width=300)
+### My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekS200607&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekS200607&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&rank_icon=percentile)](https://github.com/AbhishekS200607)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhishekS200607&theme=radical)
+### Top Languages Used
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekS200607&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF)](https://github.com/AbhishekS200607)
+
+### GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekS200607&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B54&currStreakLabel=C9D1D9)](https://github.com/AbhishekS200607)
+
+### Most Used Technologies
+
+[![Most Used Languages Over Time](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekS200607&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true&hide_border=true&theme=github-dark)](https://github.com/AbhishekS200607)
 
 </div>
 
@@ -146,22 +154,41 @@ Explore all projects on my [GitHub profile](https://github.com/AbhishekS200607?t
 
 ## 💡 Key Strengths
 
-✅ **Full-Stack Development** - From backend APIs to responsive frontends  
-✅ **Database Design** - MySQL, PostgreSQL, Supabase expertise  
-✅ **Security First** - JWT authentication, RLS, HMAC signing, input validation  
-✅ **Real-Time Systems** - Live updates, WebSockets, notification systems  
-✅ **Scalable Architecture** - Enterprise-grade patterns and best practices  
-✅ **Problem Solving** - Complex requirements to elegant solutions  
+| Skill | Proficiency |
+|-------|------------|
+| **Full-Stack Development** | ⭐⭐⭐⭐⭐ |
+| **Database Design** | ⭐⭐⭐⭐⭐ |
+| **Security & Authentication** | ⭐⭐⭐⭐⭐ |
+| **Real-Time Systems** | ⭐⭐⭐⭐⭐ |
+| **Scalable Architecture** | ⭐⭐⭐⭐⭐ |
+| **Problem Solving** | ⭐⭐⭐⭐⭐ |
+| **API Design** | ⭐⭐⭐⭐⭐ |
+| **Cloud Deployment** | ⭐⭐⭐⭐ |
 
 ---
 
 ## 🎯 Currently Learning
 
-- 📚 Advanced Spring Boot patterns
-- 🏗️ Microservices architecture
-- 📡 GraphQL APIs
-- ☁️ DevOps & Cloud deployment
-- 🔒 Advanced Security Practices
+- 📚 Advanced Spring Boot patterns & Spring Cloud
+- 🏗️ Microservices architecture & Kubernetes
+- 📡 GraphQL & REST API best practices
+- ☁️ AWS & Cloud deployment
+- 🔒 Advanced Security Practices & OAuth 2.0
+- 🚀 Performance optimization & caching strategies
+
+---
+
+## 📊 Quick Stats
+
+```
+Total Repositories: 15+
+Total Contributions: 344
+Longest Streak: 7 days
+Current Projects: Multiple Active
+Languages: Java, JavaScript, HTML/CSS, TypeScript
+Frameworks: Spring Boot, Node.js/Express, React
+Databases: MySQL, PostgreSQL, Supabase
+```
 
 ---
 
@@ -169,10 +196,15 @@ Explore all projects on my [GitHub profile](https://github.com/AbhishekS200607?t
 
 I'm open to collaboration, freelance projects, and exciting opportunities!
 
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asn18123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhishekS200607)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
 
 ---
 
@@ -186,8 +218,10 @@ Feel free to explore my projects. Most are open source and available under the M
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekS200607&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AbhishekS200607&color=0D1117&style=flat-square)
 
 Made with ❤️ by Abhishek S
+
+*Last Updated: June 2026*
 
 </div>
